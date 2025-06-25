@@ -1,0 +1,53 @@
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+InputDemo.java:13: error: cannot find symbol
+                age=nextInt();//read the int value
+                    ^
+  symbol:   method nextInt()
+  location: class InputDemo
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java InputDemo
+Hi Enter your Name:
+Kaarmugi
+Hello Kaarmugi, How are you?
+Hi Enter your age:
+23
+Ohh god! Are you 23 years old?
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+InputDemo.java:16: error: cannot find symbol
+                marks = sc.nexrtByte();
+                          ^
+  symbol:   method nexrtByte()
+  location: variable sc of type Scanner
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java InputDemo
+Hi Enter your Name:
+Kaarmugi
+Hello Kaarmugi, How are you?
+Hi Enter your age:
+22
+Ohh god! Are you 22 years old?
+Enter your Marks:
+99
+You have got 99 marks.
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+InputDemo.java:21: error: variable grade might not have been initialized
+                System.out.println("You have got " +  grade + " grade.");
+                                                      ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac InputDemo.java
+InputDemo.java:21: error: variable grade might not have been initialized
+                System.out.println("You have got " +  grade + " grade.");
+                                                      ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>

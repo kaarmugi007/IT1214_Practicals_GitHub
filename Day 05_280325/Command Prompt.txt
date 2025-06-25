@@ -1,0 +1,53 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict119>cd Desktop\2022ICT119 _ IT1214\Day 05_280325
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Practical1
+Error: Could not find or load main class Practical1
+Caused by: java.lang.ClassNotFoundException: Practical1
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+Name of the Document d is Document@59690aa4
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+Name of the Document d is My First Document
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+Name of the Document d is My First Document
+Created a Document Object d2
+Name of the Document d2 is My First Document
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+Name of the Document d is My First Document
+Created a Document Object d2
+Name of the Document d2 is My Second Document
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Practical1.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java Document
+Created a Document Object d
+Name of the Document d is My First Document
+Exception in thread "main" java.lang.NullPointerException
+        at Document.main(Practical1.java:18)
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>

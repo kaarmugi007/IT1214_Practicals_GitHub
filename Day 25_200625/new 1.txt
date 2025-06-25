@@ -1,0 +1,7 @@
+class report{
+	String originator;
+	String alterType;
+	boolean isEmergency;
+	byte temperature;
+	
+}

@@ -1,0 +1,202 @@
+Microsoft Windows [Version 10.0.22631.5126]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:20: error: incompatible types: possible lossy conversion from double to long
+                long lo = 452.21454;
+                          ^
+ConverterDemo.java:22: error: incompatible types: possible lossy conversion from double to float
+                float fl = 65.25486;
+                           ^
+2 errors
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:20: error: incompatible types: possible lossy conversion from double to long
+                long lo = 452.21;
+                          ^
+ConverterDemo.java:22: error: incompatible types: possible lossy conversion from double to float
+                float fl = 65.25486;
+                           ^
+2 errors
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:20: error: incompatible types: possible lossy conversion from double to long
+                long lo = 452.21;
+                          ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:22: error: incompatible types: possible lossy conversion from double to float
+                float fl = 655.02;
+                           ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:19: error: incompatible types: possible lossy conversion from int to byte
+                byte by =  170;
+                           ^
+ConverterDemo.java:24: error: incompatible types: possible lossy conversion from double to float
+                float fl = 65.23;
+                           ^
+2 errors
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:24: error: incompatible types: possible lossy conversion from double to float
+                float fl = 65.23;
+                           ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:24: error: incompatible types: possible lossy conversion from double to float
+                float fl = 1.23;
+                           ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 120
+Value of short s is: 45
+Value of charecter c is: a
+Value of int i is: 456
+Value of long l is: 452
+Value of float f is: 7.12345
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 120
+Value of short s is: 45
+Value of charecter c is: a
+Value of int i is: 456
+Value of long l is: 120
+Value of float f is: 7.1245
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:29: error: incompatible types: possible lossy conversion from long to byte
+                by = lo;
+                     ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:30: error: incompatible types: possible lossy conversion from long to short
+                sh = lo; //shortening, won't complie
+                     ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo\
+Error: Could not find or load main class ConverterDemo\
+Caused by: java.lang.ClassNotFoundException: ConverterDemo\
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 120
+Value of short s is: 120
+Value of charecter c is: a
+Value of int i is: 456
+Value of long l is: 120
+Value of float f is: 7.1245
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 120
+Value of short s is: 120
+Value of charecter c is: a
+Value of int i is: 456
+Value of long l is: 120
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:33: error: incompatible types: possible lossy conversion from float to int
+                in = fl;
+                     ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+ConverterDemo.java:34: error: incompatible types: possible lossy conversion from double to int
+                in = db;
+                     ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 120
+Value of short s is: 120
+Value of charecter c is: a
+Value of int i is: 456
+Value of long l is: 120
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 10
+Value of short s is: 10
+Value of charecter c is: a
+Value of int i is: 78
+Value of long l is: 10
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 10
+Value of short s is: 10
+Value of charecter c is: a
+Value of int i is: 97
+Value of long l is: 10
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 10
+Value of short s is: 10
+Value of charecter c is: d
+Value of int i is: 97
+Value of long l is: 10
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac ConverterDemo.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java ConverterDemo
+Value of boolean b is: true
+Value of byte by is: 10
+Value of short s is: 10
+Value of charecter c is: d
+Value of int i is: 97
+Value of long l is: 10
+Value of float f is: 456.0
+Value of double d is: 78.45
+Value of String s is: Hi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>

@@ -1,0 +1,142 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict119>cd Desktop\2022ICT119 _ IT1214\Day 05_280325
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java AllInOneDemo
+Name of the student s1 is Charle Marks = 100
+Name of the student s2 is NoName Marks = 100
+Name of the student s3 is Don Marks = 55
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java AllInOneDemo
+Name of the student s1 is Charle & Marks = 100
+Name of the student s2 is NoName & Marks = 100
+Name of the student s3 is Don & Marks = 55
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+AllInOneDemo.java:16: error: constructor Car in class Car cannot be applied to giventypes;
+                Car c1=new Car("Mazda S3");
+                       ^
+  required: no arguments
+  found: String
+  reason: actual and formal argument lists differ in length
+AllInOneDemo.java:17: error: constructor Car in class Car cannot be applied to giventypes;
+                Car c2=new Car("Nissan Navara");
+                       ^
+  required: no arguments
+  found: String
+  reason: actual and formal argument lists differ in length
+AllInOneDemo.java:18: error: cannot find symbol
+                print("Model of the Car c1 is "+getModel());
+                                                ^
+  symbol:   method getModel()
+  location: class AllInOneDemo
+AllInOneDemo.java:19: error: cannot find symbol
+                print("Model of the Car c2 is "+getModel());
+                                                ^
+  symbol:   method getModel()
+  location: class AllInOneDemo
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Main.java
+Main.java:26: error: constructor Car in class Car cannot be applied to given types;
+                Car c1=new Car();
+                       ^
+  required: String
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Main.java
+Main.java:18: error: constructor Car in class Car cannot be applied to given types;
+                Car c1=new Car();
+                       ^
+  required: String
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+Main.java:19: error: cannot find symbol
+                c1.setModel("Toyoto Corolla");
+                  ^
+  symbol:   method setModel(String)
+  location: variable c1 of type Car
+Main.java:20: error: cannot find symbol
+                System.out.println(c1.getModel());
+                                     ^
+  symbol:   method getModel()
+  location: variable c1 of type Car
+3 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Main.java
+Main.java:26: error: constructor Car in class Car cannot be applied to given types;
+                Car c1=new Car();
+                       ^
+  required: String
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+AllInOneDemo.java:18: error: cannot find symbol
+                print("Model of the Car c1 is "+getModel());
+                                                ^
+  symbol:   method getModel()
+  location: class AllInOneDemo
+AllInOneDemo.java:19: error: cannot find symbol
+                print("Model of the Car c2 is "+getModel());
+                                                ^
+  symbol:   method getModel()
+  location: class AllInOneDemo
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+AllInOneDemo.java:18: error: model has private access in Car
+                print("Model of the Car c1 is "+c1.model);
+                                                  ^
+AllInOneDemo.java:19: error: model has private access in Car
+                print("Model of the Car c2 is "+c2.model);
+                                                  ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+AllInOneDemo.java:18: error: model has private access in Car
+                print("Model of the Car c1 is "+c1.model);
+                                                  ^
+AllInOneDemo.java:19: error: model has private access in Car
+                print("Model of the Car c2 is "+c2.model);
+                                                  ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+AllInOneDemo.java:18: error: model has private access in Car
+                print("Model of the Car c1 is "+c1.model);
+                                                  ^
+AllInOneDemo.java:19: error: model has private access in Car
+                print("Model of the Car c2 is "+c2.model);
+                                                  ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Main.java
+Main.java:26: error: constructor Car in class Car cannot be applied to given types;
+                Car c1=new Car();
+                       ^
+  required: String
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac Main.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>javac AllInOneDemo.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>java AllInOneDemo
+Name of the student s1 is Charle & Marks = 100
+Name of the student s2 is NoName & Marks = 100
+Name of the student s3 is Don & Marks = 55
+Model of the Car c1 is Mazda S3
+Model of the Car c2 is Nissan Navara
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 05_280325>

@@ -1,0 +1,263 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict119>cd Desktop\2022ICT119 _ IT1214
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214>cd Day 04_270325
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325
+
+27/03/2025  13:51    <DIR>          .
+27/03/2025  13:49    <DIR>          ..
+27/03/2025  13:55               256 Student.java
+               1 File(s)            256 bytes
+               2 Dir(s)  239,721,361,408 bytes free
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325
+
+27/03/2025  13:56    <DIR>          .
+27/03/2025  13:49    <DIR>          ..
+27/03/2025  13:56               244 Student.class
+27/03/2025  13:55               256 Student.java
+27/03/2025  13:56               488 StudentDemo.class
+               3 File(s)            988 bytes
+               2 Dir(s)  239,725,051,904 bytes free
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java Student
+Error: Main method not found in class Student, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java Student
+Error: Main method not found in class Student, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java TestClass
+From Student TestClass Class
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object isnull
+Marks value of the object is0
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is null
+Marks value of the object is 0
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is Adam
+Marks value of the object is 100
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is Adam
+Marks value of the object is 100
+Name value of the object is Bob
+Marks value of the object is 10
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is No Name
+Marks value of the object is 100
+Name value of the object is Bob
+Marks value of the object is 10
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is Nice Name
+Marks value of the object is 100
+Name value of the object is Bob
+Marks value of the object is 10
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Student.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java StudentDemo
+From Student Demo Class
+Creating an object of Student Class
+Created an object of Student Class
+Name value of the object is Nice Name
+Marks value of the object is 85
+Name value of the object is Bob
+Marks value of the object is 10
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.j
+ava
+accessModifiers.java:1: error: class Person is public, should be declared in a file named Person.java
+public class Person{
+       ^
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: name has private access in Person
+                p1.name = "Jhon";
+                  ^
+accessModifiers.java:23: error: name has private access in Person
+                System.out.println(p1.name);
+                                     ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:1: error: class Person is public, should be declared in a file named Person.java
+public class Person{
+       ^
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: name has private access in Person
+                p1.name = "Jhon";
+                  ^
+accessModifiers.java:23: error: name has private access in Person
+                System.out.println(p1.name);
+                                     ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:1: error: class Person is public, should be declared in a file named Person.java
+public class Person{
+       ^
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: name has private access in Person
+                p1.name = "Jhon";
+                  ^
+accessModifiers.java:23: error: name has private access in Person
+                System.out.println(p1.name);
+                                     ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:1: error: class Person is public, should be declared in a file named Person.java
+public class Person{
+       ^
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: name has private access in Person
+                p1.name = "Jhon";
+                  ^
+accessModifiers.java:23: error: name has private access in Person
+                System.out.println(p1.name);
+                                     ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: name has private access in Person
+                p1.name = "Jhon";
+                  ^
+accessModifiers.java:23: error: cannot find symbol
+                System.out.println(p1.getName);
+                                     ^
+  symbol:   variable getName
+  location: variable p1 of type Person
+3 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: cannot find symbol
+                p1.setName = "Jhon";
+                  ^
+  symbol:   variable setName
+  location: variable p1 of type Person
+accessModifiers.java:23: error: cannot find symbol
+                System.out.println(p1.getName);
+                                     ^
+  symbol:   variable getName
+  location: variable p1 of type Person
+3 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+accessModifiers.java:22: error: method setName in class Person cannot be applied to given types;
+                p1.setName() = "Jhon";
+                  ^
+  required: String
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+accessModifiers.java:17: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac accessModifiers.java
+error: file not found: accessModifiers.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Main.java\
+error: invalid flag: Main.java\
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac Main.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java Main
+Jhon
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>javac MainCar.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>java MainCar
+Toyoto Corolla
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 04_270325>

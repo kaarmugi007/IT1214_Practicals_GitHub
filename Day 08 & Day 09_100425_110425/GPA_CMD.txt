@@ -1,0 +1,141 @@
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+GPA.java:18: error: ';' expected
+                Scanner sc new Scanner(System.in);
+                          ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+GPA.java:7: error: variable gp might not have been initialized
+                return gp;
+                       ^
+1 error
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+kaarmugi
+Hi kaarmugi
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1113: A+
+Grade point value of the grade A+ is 0.0
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo\
+Error: Could not find or load main class Demo\
+Caused by: java.lang.ClassNotFoundException: Demo\
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+kaarmugi
+Hi kaarmugi
+Enter the Grade for IT 1113: A+
+Grade point value of the grade A+ is 4.0
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1113: C
+Grade point value of the grade C is 2.0
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1122: C
+Grade point value of the grade C is 2.0
+Overall Grade Point is 4.0
+Enter the Grade for IT 1134: a
+Grade point value of the grade a is 0.0
+Overall Grade Point is 4.0
+Enter the Grade for IT 1144: d
+Grade point value of the grade d is 0.0
+Overall Grade Point is 4.0
+Enter the Grade for IT 1152: a
+Grade point value of the grade a is 0.0
+Overall Grade Point is 4.0
+Overall Grade Point Average is 0.26666668
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1113: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 12.0
+Enter the Grade for IT 1122: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 20.0
+Enter the Grade for IT 1134: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 36.0
+Enter the Grade for IT 1144: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 52.0
+Enter the Grade for IT 1152: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 64.0
+Overall Grade Point Average is 4.266667
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1113: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 12.0
+Enter the Grade for IT 1122: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 20.0
+Enter the Grade for IT 1134: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 36.0
+Enter the Grade for IT 1144: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 52.0
+Enter the Grade for IT 1152: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 64.0
+Overall Grade Point Average is 4.266667
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>javac GPA.java
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>java Demo
+Enter your Name:
+Kaarmugi
+Hi Kaarmugi
+Enter the Grade for IT 1113: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 12.0
+Enter the Grade for IT 1122: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 20.0
+Enter the Grade for IT 1134: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 36.0
+Enter the Grade for IT 1144: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 52.0
+Enter the Grade for IT 1152: A
+Grade point value of the grade A is 4.0
+Overall Grade Point is 60.0
+Overall Grade Point Average is 4.0
+
+C:\Users\2022ict119.TECH0\Desktop\2022ICT119 _ IT1214\Day 08_100425>

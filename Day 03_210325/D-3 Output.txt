@@ -1,0 +1,138 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict119>cd desktop
+
+C:\Users\2022ict119\Desktop>cd 2022ICT119 _ IT1214
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214>cd Day 03_210325
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>mkdir a b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>tree
+Folder PATH listing
+Volume serial number is 96E8-8CF4
+C:.
+├───a
+└───b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+.\a\Test.java:5: error: ';' expected
+                System.out.println("Hi from class Test in package a")
+                                                                     ^
+App.java:3: error: Test is not public in a; cannot be accessed from outside package
+                a.Test t1=new Test();
+                 ^
+App.java:3: error: cannot find symbol
+                a.Test t1=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+.\b\Test.java:5: error: ';' expected
+                System.out.println("Hi from class Test in package b")
+                                                                     ^
+App.java:4: error: Test is not public in b; cannot be accessed from outside package
+                b.Test t2=new Test();
+                 ^
+App.java:4: error: cannot find symbol
+                b.Test t2=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+6 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Error: Could not find or load main class App
+Caused by: java.lang.ClassNotFoundException: App
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+App.java:3: error: cannot find symbol
+                a.Test t1=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+App.java:4: error: cannot find symbol
+                b.Test t2=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+App.java:5: error: print() is not public in Test; cannot be accessed from outside package
+                t1.print();
+                  ^
+App.java:6: error: print() is not public in Test; cannot be accessed from outside package
+                t2.print();
+                  ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+App.java:3: error: cannot find symbol
+                a.Test t1=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+App.java:4: error: cannot find symbol
+                b.Test t2=new Test();
+                              ^
+  symbol:   class Test
+  location: class App
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Display:Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+App.java:9: error: print() is not public in Test; cannot be accessed from outside package
+                t1.print();
+                  ^
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+App.java:6: error: Test is not public in a; cannot be accessed from outside package
+                a.Test t1=new a.Test();
+                 ^
+App.java:6: error: Test is not public in a; cannot be accessed from outside package
+                a.Test t1=new a.Test();
+                               ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+App.java:9: error: print() is not public in Test; cannot be accessed from outside package
+                t1.print();
+                  ^
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Display:Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>javac App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>java App
+Hi from class Test in package a
+Display:Hi from class Test in package a
+Hi from class Test in package b
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 03_210325>

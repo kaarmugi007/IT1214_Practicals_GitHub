@@ -1,0 +1,263 @@
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1213_App.java
+error: file not found: IT1213_App.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:6: error: class, interface, or enum expected
+Class App{
+^
+IT1214_App.java:9: error: class, interface, or enum expected
+        }
+        ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>cd..
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214>cd "Day 06_030425"
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 96E8-8CF4
+
+ Directory of C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425
+
+03/04/2025  14:19    <DIR>          .
+03/04/2025  14:07    <DIR>          ..
+03/04/2025  14:29               433 App.class
+03/04/2025  14:23               161 IT1214_App.java
+03/04/2025  14:29               247 Student.class
+               3 File(s)            841 bytes
+               2 Dir(s)  206,441,701,376 bytes free
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the student is Harry, and the marks of the student is 90.
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:8: error: cannot find symbol
+                System.out.println(print);
+                                   ^
+  symbol:   variable print
+  location: class Printer
+IT1214_App.java:15: error: method print in class Printer cannot be applied to given types;
+                p.print("Welcome to Demo Class App!");
+                 ^
+  required: no arguments
+  found: String
+  reason: actual and formal argument lists differ in length
+IT1214_App.java:21: error: method print in class Printer cannot be applied to given types;
+                p.print("Name of the Student s1 = " + s1.name);
+                 ^
+  required: no arguments
+  found: String
+  reason: actual and formal argument lists differ in length
+3 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:8: error: cannot find symbol
+                System.out.println(print);
+                                   ^
+  symbol:   variable print
+  location: class Printer
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+Marks of the Student s1 = 90
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+Marks of the Student s1 = 90
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:22: error: unclosed string literal
+                System.out.println("Name of the Student s1 = " + s1.name");
+                                                                        ^
+IT1214_App.java:29: error: unclosed string literal
+                System.out.println("Name of the Student s1 = " + s2.name");
+                                                                        ^
+2 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+Name of the Student s1 = null
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Name of the Student s1 = Harry
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:6: error: ')' expected
+                System.out.println(Creating a Student Object);
+                                           ^
+IT1214_App.java:6: error: ';' expected
+                System.out.println(Creating a Student Object);
+                                                     ^
+IT1214_App.java:6: error: not a statement
+                System.out.println(Creating a Student Object);
+                                                      ^
+IT1214_App.java:6: error: ';' expected
+                System.out.println(Creating a Student Object);
+                                                            ^
+4 errors
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Harry
+Creating a Student Object
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Harry
+Creating a Student Object
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Default Name
+Name of the Student s1 = Harry
+Creating a Student Object
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:31: error: constructor Student in class Student cannot be applied togiven types;
+                Student s2 = new Student("Bob",50);
+                             ^
+  required: no arguments
+  found: String,int
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:32: error: constructor Student in class Student cannot be applied togiven types;
+                Student s2 = new Student("Bob",50);
+                             ^
+  required: no arguments
+  found: String,int
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:24: error: constructor Student in class Student cannot be applied togiven types;
+                Student s1 = new Student();
+                             ^
+  required: String,int
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+IT1214_App.java:24: error: constructor Student in class Student cannot be applied togiven types;
+                Student s1 = new Student();
+                             ^
+  required: String,int
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+1 error
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Default Name
+Name of the Student s1 = Harry
+Creating a Student Object
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Default Name
+Name of the Student s1 = Harry
+Creating a Student Object
+Name of the Student s2 = Bob
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Default Name
+Name of the Student s1 = Harry
+Creating a Student Object with name Bob and marks 50
+Name of the Student s2 = null
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>javac IT1214_App.java
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>java App
+Welcome to Demo Class App!
+Creating a Student Object
+Name of the Student s1 = Default Name
+Name of the Student s1 = Harry
+Creating a Student Object with name Bob and marks 50
+Name of the Student s2 = null
+Marks of the Student s2 = 0
+
+C:\Users\2022ict119\Desktop\2022ICT119 _ IT1214\Day 06_030425>
